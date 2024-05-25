@@ -31,7 +31,7 @@ Welcome to our 2D Air Hockey game, developed as part of our Graphics Lab project
   <img src="https://github.com/NoushinTasnim/2D-Air-Hockey/blob/main/Screenshot%202024-05-25%20103040.png" alt="App Screenshot" width="1000" />
 </p>
 
-<h3>Game Mechanics</h3>
+<h2>Game Mechanics</h2>
 <ul>
         <li>Players cannot move into each other's half of the table or beyond the table's boundary.</li>
         <li>The objective is to score goals by hitting the ball into the opponent's goalpost.</li>
@@ -39,7 +39,7 @@ Welcome to our 2D Air Hockey game, developed as part of our Graphics Lab project
         <li>After a goal, the ball is reset to the center of the table.</li>
     </ul>
 
-<h3>Development</h3>
+<h2>Development</h2>
 This game was developed using Python and OpenGL. It showcases basic graphics and game development concepts, including:
 <ul>
         <li>2D rendering with OpenGL.</li>
